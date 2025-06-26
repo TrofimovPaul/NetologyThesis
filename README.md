@@ -1,0 +1,3 @@
+Для вывода общего документа docx
+pandoc -f markdown -s .\\Текстовые файлы\\01_title.md .\\Текстовые файлы\\02_content.md .\\Текстовые файлы\\03_introduction.md .\\Текстовые файлы\\04_data_description.md .\\Текстовые файлы\\05_data_preparation.md .\\Текстовые файлы\\06_lemmatization_train_test.md .\\Текстовые файлы\\07_learning_classic.md .\\Текстовые файлы\\08_learning_neuralnet_intro.md .\\Текстовые файлы\\09_learning_neuralnet_models.md .\\Текстовые файлы\\10_comparison_models.md .\\Текстовые файлы\\11_examples.md .\\Текстовые файлы\\12_literature.md -o .\\Текстовые файлы\\netology_thesis_from_md.docx
+
